@@ -8,10 +8,13 @@ body {
 
 body {
   margin: 0 auto;
-  width: 80%;
-  background-color: pink;
+  width: 66.67%;
+  background-color: #004C00;
 }
-
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 *, *:after, *:before {
   box-sizing: border-box;
